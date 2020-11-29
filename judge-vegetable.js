@@ -27,4 +27,4 @@ const vegetables = [
 
 const metric = 'redness'
 
-console.log(judgeVegetable(vegetables, metric))
+console.log(judgeVegetable(vegetables, metric)) //"Old Man Franklin"
